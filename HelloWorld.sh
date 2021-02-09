@@ -1,3 +1,3 @@
 echo "Hello World"
 
-HelloWorld2!
+echo "HelloWorld2!"
